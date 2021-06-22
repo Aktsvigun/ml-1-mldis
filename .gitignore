@@ -8,6 +8,7 @@ __pycache__/
 
 # Specific files and directories
 prepare/
+seminars/Employee_Salary_Compensation.csv
 
 # Distribution / packaging
 .Python
